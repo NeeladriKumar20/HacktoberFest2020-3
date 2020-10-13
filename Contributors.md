@@ -1,3 +1,6 @@
+Name:[Neeladri Kumar](https://github.com/NeeladriKumar20)<br/>
+Place:India<br/>
+About:Student<br/>
 Name: [Vinamr Bajaj](https://github.com/bajajvinamr)<br/>
 Place: India<br/>
 About: Sophomore at IIITL<br/>
